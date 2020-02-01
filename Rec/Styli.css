@@ -1,0 +1,35 @@
+div {
+	color: black;
+}
+body {
+	background-color: #9CA7B1;
+	padding: 20px;
+	margin: 50px;
+	margin-right: 50px;
+}
+
+.razmer {
+	background: yellow;
+	color: black;
+	border: 1px solid;
+	margin-right: 50px;
+	}
+h2 {
+	border: 3px black;
+	text-align: center;
+}
+.text {
+	border: 1px solid #9CA7B1;
+	padding: 20px;
+	margin-right: 50px;
+	text-align: justify;
+}
+h1 {
+	text-align: center;
+}
+p {
+ text-indent: 1.5em;
+}
+.fig {
+	text-align: center;
+}
